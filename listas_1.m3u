@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjVBGrpq/DAZN-F1.png" group-title="DEPORTES" tvg-id="DAZN F1 1080p", DAZN F1 1080p acestream://5789ca155323664edd293b848606688edf803f4d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVZzH0SS/DAZN-1.png" group-title="DEPORTES" tvg-id="DAZN 1 1080p", DAZN F1 1080p acestream://5789ca155323664edd293b848606688edf803f4d
